@@ -1,10 +1,20 @@
-<h1 align='center'>
-Hi there 👋 I am Jan Cordeiro</center>
-</h1>
+# Hi there 👋 I'm Jan Cordeiro
 
-<p align='center'>
-Self-taught Web Developer :muscle:
-</p>
+Self-taught Web Developer from Brazil 💪 and also a free & open source software enthusiast.
+
+I'm a Linux 🐧 user. Trisquel GNU/Linux is my main distro.
+
+---
+
+### Get in a touch
+
+- 💻 [SITE](https://jancordeiro.github.io)
+- 📫 [EMAIL](mailto:jancordeiro@protonmail.com)
+- 🐦 [TWITTER](https://twitter.com/jancordev)
+
+---
+
+
 <!--
 **jancordeiro/jancordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
