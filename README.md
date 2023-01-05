@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jan Cordeiro
+# Hi there 👋 I'm Jan Cordeiro 👨‍💻
 
 Self-taught Web Developer from Brazil 💪 and also a free & open source software enthusiast.
 
