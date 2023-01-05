@@ -8,9 +8,9 @@ I'm a Linux 🐧 user. Trisquel GNU/Linux is my main distro.
 
 ### Get in a touch
 
-- 💻 [SITE](https://jancordeiro.github.io)
+- 💻 [SITE](https://jancordeiro.github.io) (Under Construction)
 - 📫 [EMAIL](mailto:jancordeiro@protonmail.com)
-- 🐦 [TWITTER](https://twitter.com/jancordev)
+- 🐦 [TWITTER](https://nitter.net/jancordev)
 
 ---
 
