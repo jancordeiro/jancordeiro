@@ -2,7 +2,7 @@
 
 Self-taught Web Developer from Brazil 💪 and also a free & open source software enthusiast.
 
-I'm a Linux 🐧 user. Trisquel GNU/Linux is my main distro.
+I'm a Linux 🐧 user. Debian 11 (XFCE) is my main distro.
 
 ---
 
