@@ -1,16 +1,16 @@
-# Hi there 👋 I'm Jan Cordeiro 👨‍💻
+# Hi there 👋 I'm Jan Cordeiro 
 
-Self-taught Web Developer from Brazil 💪 and also a free & open source software enthusiast.
+👨‍💻 I'm a Self-taught Web Developer from Brazil 💪 and also a free & open source software enthusiast.
 
-I'm a Linux 🐧 user. Debian 11 (XFCE) is my main distro.
+🐧 Debian 11 (XFCE) is my main distro.
 
 ---
 
 ### Get in a touch
 
-- 💻 [PAGE](https://jancordeiro.github.io) (Under Construction)
-- 📫 [EMAIL](mailto:jancordeiro@protonmail.com)
-- 🐦 [TWITTER](https://nitter.net/jancordev)
+- 💻 [Website](https://jancordeiro.github.io) (Under Construction)
+- 📫 [Email](mailto:jancordeiro@protonmail.com)
+- 🐦 [TWITTER](https://twitter.com/jancordev)
 
 ---
 
