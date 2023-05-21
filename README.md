@@ -4,15 +4,17 @@
 
 🐧 Debian 11 (XFCE) is my main distro.
 
-⚡ I'm currently learning PHP (POO), JS and Shell.
+🌱I'm currently learning PHP (POO), JS and Shell.
+
+💻 Frontend: HTML, CSS and JS
+⚡ Backend: PHP, MySQL, Shell
 
 ---
 
 ### Get in a touch
 
-- 💻 [Website](https://jancordeiro.github.io) (Under Construction)
+- 💻 [Portfolio](https://jancordeiro.github.io) (Under Construction)
 - 📫 [Email](mailto:jancordeiro@protonmail.com)
-- 🐦 [TWITTER](https://twitter.com/jancordev)
 
 ---
 
