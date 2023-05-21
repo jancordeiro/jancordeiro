@@ -4,7 +4,7 @@
 
 🐧 Debian 11 (XFCE) is my main distro.
 
-🌱I'm currently learning PHP (POO), JS and Shell.
+🌱 I'm currently learning PHP (POO), JS and Shell.
 
 💻 Frontend: HTML, CSS and JS. 
 
