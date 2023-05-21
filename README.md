@@ -6,7 +6,7 @@
 
 🌱I'm currently learning PHP (POO), JS and Shell.
 
-💻 Frontend: HTML, CSS and JS
+💻 Frontend: HTML, CSS and JS. 
 ⚡ Backend: PHP, MySQL, Shell
 
 ---
