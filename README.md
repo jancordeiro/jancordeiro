@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Jan Cordeiro 
 
 👨‍💻 Web Developer from Brazil  
-🐧 Debian (XFCE) is my UNIX-like main distro.
+🐧 Debian (XFCE) is my main GNU/Linux distro.
 
 💪 Skills:
 
 💻 Frontend: HTML, CSS and JS.  
-⚡ Backend: PHP, MySQL, Shell.  
-🌱 In progress: ReactJS
+⚡ Backend: PHP, and Shell.  
+🌱 In progress: ReactJS and Laravel
 
 ---
 
