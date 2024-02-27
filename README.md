@@ -3,12 +3,6 @@
 👨‍💻 Web Developer from Brazil  
 🐧 Debian (XFCE) is my main GNU/Linux distro.
 
-💪 Skills:
-
-💻 Frontend: HTML, CSS and JS.  
-⚡ Backend: PHP, and Shell.  
-🌱 In progress: ReactJS and Laravel
-
 ---
 
 ### Get in a touch
