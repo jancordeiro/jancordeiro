@@ -9,5 +9,3 @@
 
 - 💻 [Github Page](https://jancordeiro.github.io) (Under Construction)
 - 📫 [Email](mailto:jancordeiro@protonmail.com)
-
----
