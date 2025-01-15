@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jan Cordeiro 
 
-👨‍💻 Web Developer from Brazil  
-🐧 Debian (XFCE) is my main GNU/Linux distro.
+👨‍💻 I'm a self-taught Web Developer
+🐧 Debian is my main GNU/Linux distro.
 
 ---
 
@@ -9,3 +9,4 @@
 
 - 💻 [Github Page](https://jancordeiro.github.io) (Under Construction)
 - 📫 [Email](mailto:jancordeiro@protonmail.com)
+- 🐘 <a rel="me" href="https://mastodon.world/@jancordeiro">Mastodon</a>
