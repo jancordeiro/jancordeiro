@@ -5,6 +5,30 @@
 # Author URI: https://jancordeiro.github.io
 #
 
+clear
+
+# Função para verificar se jq está instalado
+check_jq() {
+    if ! command -v jq &> /dev/null; then
+        echo "❌ O utilitário 'jq' não está instalado."
+        read -p "Deseja instalar agora? (s/n): " choice
+        if [[ "$choice" =~ ^[Ss]$ ]]; then
+            echo "🔧 Instalando jq..."
+            sudo apt update && sudo apt install -y jq
+            if ! command -v jq &> /dev/null; then
+                echo "⚠️ Falha na instalação do jq. Saindo..."
+                exit 1
+            fi
+        else
+            echo "🚫 'jq' é necessário para rodar este script. Saindo..."
+            exit 1
+        fi
+    fi
+}
+
+# Chama a verificação
+check_jq
+
 # Endpoint da API CoinGecko
 API_URL="https://api.coingecko.com/api/v3/coins/bitcoin?localization=false&market_data=true"
 
