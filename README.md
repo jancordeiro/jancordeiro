@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Jan Cordeiro 
 
-👨‍💻 I'm a self-taught Web Developer
+👨‍💻 I'm a Web Developer
 🐧 Debian is my main GNU/Linux distro.
 
 ---
 
-### Get in a touch
+### My Links
 
-- 💻 [Github Page](https://jancordeiro.github.io) (Under Construction)
+- 💻 [Github Page](https://jancordeiro.github.io) (My Portfolio)
 - 📫 [Email](mailto:jancordeiro@protonmail.com)
 - 🐘 <a rel="me" href="https://mastodon.world/@jancordeiro">Mastodon</a>
